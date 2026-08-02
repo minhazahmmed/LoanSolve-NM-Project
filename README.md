@@ -1,1 +1,2 @@
-**Live Demo:** [Click Here to Visit](https://loan-solve-nm-project.netlify.app/)
+## 🌐 Live Project
+Check out the live project here: [https://loan-solve-nm-project.netlify.app](https://loan-solve-nm-project.netlify.app)
